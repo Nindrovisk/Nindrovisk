@@ -1,20 +1,7 @@
 <h4 align="left">Guilherme R / Nindrovisk</h4>
 
-###
 
-<img align="left" height="300" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1OHYyaWh3NnQ1MDhoYWc4enE2dXY2NjFocXltY3d4dnE3NWIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axuw3oSBCgss8Aq9Sj/giphy.gif"  />
 
-###
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nindrovisk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nindrovisk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="" alt="languages graph"  />
-</div>
-
-###
-
-<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -32,6 +19,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="60" />
 </div>
+
+
+
+
+###
+
+<img align="left" height="300" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1OHYyaWh3NnQ1MDhoYWc4enE2dXY2NjFocXltY3d4dnE3NWIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/axuw3oSBCgss8Aq9Sj/giphy.gif"  />
+
+###
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nindrovisk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nindrovisk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="" alt="languages graph"  />
+</div>
+
+###
 
 
 <div align="left">
